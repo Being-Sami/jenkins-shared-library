@@ -1,4 +1,5 @@
 def call(String name = "User") {
-  echo "Hello, $(name)! Welcome to jeenkins Shared Library."
-}  
+    echo "Hello, ${name}! Welcome to Jenkins Shared Library."
+}
+
   
